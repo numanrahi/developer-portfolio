@@ -16,11 +16,10 @@ font-size: 45px;
 nav{
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 nav ul{
     display: flex;
-    
 }
 nav li{
     list-style: none;
@@ -172,7 +171,6 @@ margin-bottom: 50px;
     border: 0;
     width: 100%;
     padding:18px 30px;
-}
 input{
     height: 64px;
 }
