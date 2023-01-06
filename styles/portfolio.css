@@ -8,10 +8,15 @@
     background-repeat: no-repeat;
     background-position: bottom right , left;
 }
-
+#contact{
+    border: 1px solid rgba(253, 110, 10, 1); 
+    width: 160px;
+height: 64px;
+}
 .nav-title{
     font-weight: 800;
-font-size: 45px;
+    font-size: 45px;
+     ;
 }
 nav{
     display: flex;
